@@ -1,0 +1,4 @@
+Resharper suite
+•	GhostDoc : il suffit de taper /// devant un symbole (classe, méthode ou variable) pour générer automatiquement sa documentation dans ton code.
+•	Productivity Power Tools : Ajoute tout un tas de fonctionnalités pratiques
+• Microsoft Child Process Debugging Power Tool https://marketplace.visualstudio.com/items?itemName=vsdbgplat.MicrosoftChildProcessDebuggingPowerTool
