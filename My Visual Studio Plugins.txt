@@ -2,3 +2,32 @@ Resharper suite
 •	GhostDoc : il suffit de taper /// devant un symbole (classe, méthode ou variable) pour générer automatiquement sa documentation dans ton code.
 •	Productivity Power Tools : Ajoute tout un tas de fonctionnalités pratiques
 • Microsoft Child Process Debugging Power Tool https://marketplace.visualstudio.com/items?itemName=vsdbgplat.MicrosoftChildProcessDebuggingPowerTool
+
+
+Mail pour debutants:
+
+Bonjour Badr,
+
+Voilà quelques conseils – très subjectifs - pour progresser en C#.
+
+La bible du .NET est le Microsoft Developer Network (MSDN). C’est un ensemble de sites webs qui contient la documentation officielle et les tutoriaux. Si tu recherches l’aide d’une fonction dans Visual Studio, clic dessus et tape F1, cela te conduira automatiquement vers sa documentation MSDN. 
+
+Je te conseils de lire le C# Programming Guide pour la théorie et ses deux tutoriaux interactifs si tu veux plonger rapidement dans le code :
+https://docs.microsoft.com/en-us/dotnet/csharp/quick-starts/index
+https://www.microsoft.com/net/learn/in-browser-tutorial/1
+
+Tu peux les faire en ligne ou sur ton Visual Studio. Je te conseil ce dernier car cela te permettra de te familiariser avec !
+
+Je te conseils aussi, avant ou après tes tutoriaux, d’installer ces trois extensions de Visual Studio :
+•	GhostDoc : il suffit de taper /// devant un symbole (classe, méthode ou variable) pour générer automatiquement sa documentation dans ton code.
+•	Productivity Power Tools : Ajoute tout un tas de fonctionnalités pratiques
+•	Resharper : Un des meilleurs outils pour monter en compétence sur C#. Il te conseillera sur ta façon de coder, les erreurs et exceptions typiques et les best practices en général. Le premier mois est gratuit. N’hésite pas à me poser des questions dessus.
+
+Si tu veux t’entrainer chez toi, Visual Studio est gratuit pour les individus, c’est la version appelée community.
+
+Enfin si tu as des questions de codes, google te dirigeras souvent vers l’excellent forum StackOverflow, n’hésite pas à aller le voir.
+
+Cordialement / Regards,
+
+Antoine Dijoux
+22464
